@@ -16,3 +16,7 @@ Training the CNN to recognise cats and dogs in images.
 32 images in the batch = 32 batch size.
 final accuracy on training set =59per.
 final accuracy on test set=57 per.
+
+
+CNN_Soil_Classification: perform classification of soil into different classes of Black, Cinder, Laterite, Peat, Yellow.
+Each class has dataset of around 25 images in training set and around 6 images in test set
