@@ -12,10 +12,10 @@ CNN image classification of cats and dogs
 - step 5: connect all this to the final output layer that contains the final predication.
 - Training the CNN to recognise cats and dogs in images.
 32*250=8000 
-8000 training images.
-32 images in the batch = 32 batch size.
-final accuracy on training set =59per.
-final accuracy on test set=57 per.
+- 8000 training images.
+- 32 images in the batch = 32 batch size.
+- final accuracy on training set =59per.
+- final accuracy on test set=57 per.
 
 
 - CNN_Soil_Classification: perform classification of soil into different classes of Black, Cinder, Laterite, Peat, Yellow.
